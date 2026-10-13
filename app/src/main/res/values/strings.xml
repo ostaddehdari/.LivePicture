@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">miss hashemi</string>
+    <string name="hint_point">دوربین را به سمت قاب عکس بگیرید</string>
+    <string name="mute">بی‌صدا</string>
+    <string name="unmute">صدادار</string>
+    <string name="camera_permission_needed">برای نمایش قاب زنده، دسترسی به دوربین لازم است</string>
+</resources>
